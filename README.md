@@ -4,7 +4,7 @@
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/SignInSignupScreen-Android/blob/master/Screenshot/Screenshot_20181001-210455.png" height="420" width="240" hspace="40"><img src="https://github.com/Shashank02051997/SignInSignupScreen-Android/blob/master/Screenshot/Screenshot_20181001-210459.png" height="420" width="240" hspace="40">
+<img src="https://github.com/Shashank02051997/SignInSignupScreen-Android/blob/master/Screenshot/Screenshot_20181001-210455.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/SignInSignupScreen-Android/blob/master/Screenshot/Screenshot_20181001-210459.png" height="600" width="300" hspace="40">
 
 ## Contributing
 
